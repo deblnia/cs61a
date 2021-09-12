@@ -9,3 +9,6 @@ The order of priority should be this:
 
 This ordering preferences actually coding over passive learning. I assume I'll
 use handouts / reference materials as needed.   
+
+
+Link to the class site I'm using (from Summer 2021) [here](https://inst.eecs.berkeley.edu/~cs61a/su21/). 
