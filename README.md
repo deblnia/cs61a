@@ -12,3 +12,6 @@ use handouts / reference materials as needed.
 
 
 Link to the class site I'm using (from Summer 2021) [here](https://inst.eecs.berkeley.edu/~cs61a/su21/). 
+
+Other resources: 
+- http://albertwu.org/cs61a/
